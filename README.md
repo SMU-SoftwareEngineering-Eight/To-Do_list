@@ -1,7 +1,7 @@
 # To-Do_list
 To-Do list 서비스
 
-팀명: 에잇(Eight)
+# 팀명: 에잇(Eight)
 
 팀별 역할
 |이름|학번|학과|역할|
